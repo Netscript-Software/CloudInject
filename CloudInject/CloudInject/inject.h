@@ -163,8 +163,8 @@ VOID waitOnModule(DWORD processId, PCWSTR moduleName)
 
 VOID killAnySteamProcess()
 {
+    //authra yenı klavye al pwardon authra pc yenı ayar tmm
     HANDLE processSnapshot = CreateToolhelp32Snapshot(TH32CS_SNAPPROCESS, 0);
-
     PROCESSENTRY32W processEntry;
     processEntry.dwSize = sizeof(processEntry);
 
