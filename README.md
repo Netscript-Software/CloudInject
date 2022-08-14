@@ -10,3 +10,4 @@
  
 credits:
 vac-bypass: https://github.com/danielkrupinski/VAC-Bypass
+curl: https://github.com/curl/curl
