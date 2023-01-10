@@ -13,3 +13,5 @@ credits
 **vac-bypass**: https://github.com/danielkrupinski/VAC-Bypass
    
 **curl**: https://github.com/curl/curl
+
+**disclaimer: it's made for only educational purposes, if you use it to cheat / or if I sell it its not about me.**
